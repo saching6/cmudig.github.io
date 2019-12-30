@@ -1,6 +1,6 @@
 ---
 name: Sachin Grover
-website: https://www.cs.cmu.edu/directory/sachingr
+website: www.groversachin.com
 image: /assets/people/sachin.jpg
 role: PhD Student
 order: 2
